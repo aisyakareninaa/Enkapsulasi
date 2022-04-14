@@ -1,0 +1,12 @@
+Pada modul 2 kali ini saya belajar tentang encapsulation.
+Encapsulation atau Enkapsulasi adalah suatu cara untuk menyembunyikan informasi detail dari suatu class. 
+Dasar dasar Enkapsulasi : 
+a. Information Hiding menghindari efek diluar perencanaan, dan melindungi listing program.
+cara : add control "private" ketika mendeklarasi 
+b. Interface to acces data : cara melakukan perubahan terhadap atribut yang di information hiding 
+cara : membuat suatu interface berupa method untuk menginisialisasi atau merubah nilai dari suatu atribut tersebut. 
+method yang digunakan pada modul 2 kali ini ada 2, yaitu : 
+1. Accessor Methods : Membaca nilai variable pada class, mempunyai "return value"
+get<namaInstanceVariable> 
+2. Mutator Methods : method yang dapat memberi atau mengubah nilai variable dalam class. 
+set<namaInstanceVariabel> 
