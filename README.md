@@ -1,5 +1,6 @@
 # Enkapsulasi
 Modul 2 Produktif RPL, Enkapsulasi
+Hasil output : 
 
 ![Screenshot (216)](https://user-images.githubusercontent.com/100953845/163234686-ba21555b-53d2-44d4-b298-63c8e82667c9.png)
 ![Screenshot (217)](https://user-images.githubusercontent.com/100953845/163234697-913437e0-f313-42d0-a4ae-5004aa5fc022.png)
